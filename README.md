@@ -34,7 +34,6 @@ Tool By John Kener
         
 ```python T-manager.py ```
         
-[+] Just Type ```Tmail``` a
-       
+
 
 
